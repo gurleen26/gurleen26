@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hey there, I'm Gurleen Kaur 👋</h1>
-<h3 align="center">✨ CSE BTech Student | Full-Stack Developer | AI & Data Enthusiast ✨</h3>
+<h3 align="center">✨ CSE BTech Student | AI & Data Enthusiast ✨</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0CF7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Blockchain+Enthusiast;Always+learning+new+things;Passionate+about+Data+%26+DSA" alt="Typing SVG" />
