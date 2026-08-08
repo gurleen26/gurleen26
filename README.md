@@ -170,6 +170,7 @@ Responsive tourism website developed during a hackathon.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gurleen26&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurleen26&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurleen26&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
