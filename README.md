@@ -176,7 +176,7 @@ Responsive tourism website developed during a hackathon.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gurleen26/gurleen26/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/gurleen26/gurleen26/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
@@ -187,8 +187,20 @@ Responsive tourism website developed during a hackathon.
   <a href="https://github.com/gurleen26">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/gurleen-kaur-bhamra2627/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gurleenkaur2k5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/gurleen2k5/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://gurleen26.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1ZintsO_8KiWpIdSiwUmeLC5ml8-Sm1-4/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Resume-2ECC71?style=for-the-badge&logo=readdotcv&logoColor=white"/>
   </a>
 </p>
 
